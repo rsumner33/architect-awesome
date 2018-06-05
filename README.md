@@ -1183,8 +1183,6 @@ Java实现，推拉模式都是支持，吞吐量逊于Kafka。可以保证消�
 
 * [《Quartz任务调度的基本实现原理》](https://www.cnblogs.com/zhenyuyaodidiao/p/4755649.html)
 	* Quartz集群中，独立的Quartz节点并不与另一其的节点或是管理节点通信，而是通过相同的数据库表来感知到另一Quartz应用的 
-* [《Elastic-Job-Lite 源码解析》](http://www.iocoder.cn/categories/Elastic-Job-Lite/?vip&architect-awesome)
-* [《Elastic-Job-Cloud 源码解析》](http://www.iocoder.cn/categories/Elastic-Job-Cloud/?vip&architect-awesome)
 
 
 ## RPC
@@ -2057,7 +2055,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c)
+TODO
 
 ## 代码 Review
 
@@ -2418,7 +2416,7 @@ TODO
 
 ## 综合云服务商
 * 阿里云
-* [腾讯云](https://cloud.tencent.com/redirect.php?redirect=1012&cps_key=c2665015d90871c0cb20fef91b7afc3c)
+* 腾讯云
 * 百度云
 * 新浪云
 * 金山云
