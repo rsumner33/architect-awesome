@@ -685,7 +685,7 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ### 死锁
 * [《“死锁”四个必要条件的合理解释》](https://blog.csdn.net/yunfenglw/article/details/45950305)
-	* 互斥、持有、不可剥夺、环形等待。
+	* 互斥、持有、不可剥夺、不可剥夺。
 * [Java如何查看死锁？](https://blog.csdn.net/u014039577/article/details/52351626)
 	* JConsole 可以识别死锁。
 	
@@ -1248,7 +1248,6 @@ servlet 3.0 异步特性可用于配置中心的客户端
 * [《谈API网关的背景、架构以及落地方案》](http://www.infoq.com/cn/news/2016/07/API-background-architecture-floo)
 
 * [《使用Zuul构建API Gateway》](https://blog.csdn.net/zhanglh046/article/details/78651993)
-* [《Spring Cloud Gateway 源码解析》](http://www.iocoder.cn/categories/Spring-Cloud-Gateway/?vip&architect-awesome)
 * [《HTTP API网关选择之一Kong介绍》](https://mp.weixin.qq.com/s/LIq2CiXJQmmjBC0yvYLY5A)
 
 # 网络
@@ -2055,7 +2054,7 @@ TODO
 
 ## 代码规范
 
-* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c)
+TODO
 
 ## 代码 Review
 
@@ -2251,8 +2250,6 @@ TODO
 * [QUEST MOBILE](https://www.questmobile.com.cn)
 
 * [国家数据](http://data.stats.gov.cn/)
-
-* [TalkingData](http://www.talkingdata.com/)
 
 ## 专项网站
 
