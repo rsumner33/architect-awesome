@@ -685,7 +685,7 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ### 死锁
 * [《“死锁”四个必要条件的合理解释》](https://blog.csdn.net/yunfenglw/article/details/45950305)
-	* 互斥、持有、不可剥夺、不可剥夺。
+	* 互斥、持有、不可剥夺、环形等待。
 * [Java如何查看死锁？](https://blog.csdn.net/u014039577/article/details/52351626)
 	* JConsole 可以识别死锁。
 	
@@ -1183,6 +1183,8 @@ Java实现，推拉模式都是支持，吞吐量逊于Kafka。可以保证消�
 
 * [《Quartz任务调度的基本实现原理》](https://www.cnblogs.com/zhenyuyaodidiao/p/4755649.html)
 	* Quartz集群中，独立的Quartz节点并不与另一其的节点或是管理节点通信，而是通过相同的数据库表来感知到另一Quartz应用的 
+* [《Elastic-Job-Lite 源码解析》](http://www.iocoder.cn/categories/Elastic-Job-Lite/?vip&architect-awesome)
+* [《Elastic-Job-Cloud 源码解析》](http://www.iocoder.cn/categories/Elastic-Job-Cloud/?vip&architect-awesome)
 
 
 ## RPC
@@ -1248,6 +1250,7 @@ servlet 3.0 异步特性可用于配置中心的客户端
 * [《谈API网关的背景、架构以及落地方案》](http://www.infoq.com/cn/news/2016/07/API-background-architecture-floo)
 
 * [《使用Zuul构建API Gateway》](https://blog.csdn.net/zhanglh046/article/details/78651993)
+* [《Spring Cloud Gateway 源码解析》](http://www.iocoder.cn/categories/Spring-Cloud-Gateway/?vip&architect-awesome)
 * [《HTTP API网关选择之一Kong介绍》](https://mp.weixin.qq.com/s/LIq2CiXJQmmjBC0yvYLY5A)
 
 # 网络
@@ -2054,7 +2057,7 @@ TODO
 
 ## 代码规范
 
-TODO
+* [《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c)
 
 ## 代码 Review
 
@@ -2251,6 +2254,8 @@ TODO
 
 * [国家数据](http://data.stats.gov.cn/)
 
+* [TalkingData](http://www.talkingdata.com/)
+
 ## 专项网站
 
 * 测试:
@@ -2413,7 +2418,7 @@ TODO
 
 ## 综合云服务商
 * 阿里云
-* 腾讯云
+* [腾讯云](https://cloud.tencent.com/redirect.php?redirect=1012&cps_key=c2665015d90871c0cb20fef91b7afc3c)
 * 百度云
 * 新浪云
 * 金山云
